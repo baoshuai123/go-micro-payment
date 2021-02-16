@@ -1,0 +1,5 @@
+{"level":"error","ts":"2021-02-15T23:21:20.443+0800","caller":"payment/main.go:35","msg":"error loading source consul: Get \"http://localhost:8500/v1/kv/micro/config?recurse=\": dial tcp [::1]:8500: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2021-02-15T23:21:22.788+0800","caller":"payment/main.go:61","msg":"dial tcp :0: connectex: The requested address is not valid in its context."}
+{"level":"error","ts":"2021-02-15T23:21:22.788+0800","caller":"payment/main.go:66","msg":"dial tcp :0: connectex: The requested address is not valid in its context."}
+{"level":"error","ts":"2021-02-15T23:30:42.414+0800","caller":"payment/main.go:61","msg":"dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2021-02-15T23:30:48.491+0800","caller":"payment/main.go:66","msg":"dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it."}
